@@ -6,6 +6,6 @@ This is a c adapation of the MATLAB Simulation 'PX428 Physics Laboratory - Ising
 MathWorks Physics Team (2025). Ising Model and Metropolis Algorithm (https://www.mathworks.com/matlabcentral/fileexchange/62194-ising-model-and-metropolis-algorithm), MATLAB Central File Exchange. Retrieved April 22, 2025.
 
 I would also like to provide credit to the GNU Scientfic Library Manual for its extensive information and example code snipets on implementing thier random number generation libary : 
-M. G. et al, GNU Scientific Libary Reference Manual, Vol. 3rd Ed. (ISBN 0954612078) .
+M. G. et al, GNU Scientific Library Reference Manual, Vol. 3rd Ed. (ISBN 0954612078) .
 
 Finally this code was put together very quickly in order to meet a dealine. As a result I have not have time to remove code dupliation or create an elegant link to the heatmap plotter code.
